@@ -1,4 +1,4 @@
-A Junior Web Developer is required for immediate start in Twickenham, Greater London. You will initially be working on internal systems, but will have the opportunity to work on client facing projects later on down the line.
+﻿A Junior Web Developer is required for immediate start in Twickenham, Greater London. You will initially be working on internal systems, but will have the opportunity to work on client facing projects later on down the line.
 
 Responsibilities:
 
@@ -29,6 +29,6 @@ Understanding of security concerns
 SEO
 IT support/willingness to fix IT issues
 Business knowledge
-Salary £20-25k DOE.
+
 
 Please send your CV. Examples of your code (a link to your GitHub profile etc.) would be beneficial to your application.
